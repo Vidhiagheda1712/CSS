@@ -359,6 +359,7 @@ header.menu ul li .drop-down ul li i {
     margin: 20px 0;
     line-height: 1;
     font-family: var(--poppins);
+    color: white;
 }
 
 .banner .banner-content p,
